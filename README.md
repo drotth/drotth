@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  
+### Hi there!
+<a href="https://www.linkedin.com/in/andreasdrotth/"><img src="https://img.shields.io/badge/Andreas_Drotth-blue?logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:andreas.drotth@gmail.com"><img src="https://img.shields.io/badge/andreas.drotth-c71610?logo=Gmail&logoColor=white"/></a>
+<a href="https://drotth.dev"><img src="https://img.shields.io/badge/Website-blue.svg?logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggZD0iTTQgMTVMMjAgMTUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4gPHBhdGggZD0iTTQgOUwyMCA5IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+IDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4gPHBhdGggZD0iTTEyLjAwMDQgMjAuODE4MkwxMS4yODYyIDIxLjUxODFDMTEuNDc0MiAyMS43MTAxIDExLjczMTcgMjEuODE4MiAxMi4wMDA0IDIxLjgxODJDMTIuMjY5MSAyMS44MTgyIDEyLjUyNjUgMjEuNzEwMSAxMi43MTQ2IDIxLjUxODFMMTIuMDAwNCAyMC44MTgyWk0xMi4wMDA0IDMuMTgxODhMMTIuNzE0NiAyLjQ4MTk4QzEyLjUyNjUgMi4yOTAwNSAxMi4yNjkxIDIuMTgxODggMTIuMDAwNCAyLjE4MTg4QzExLjczMTcgMi4xODE4OCAxMS40NzQyIDIuMjkwMDUgMTEuMjg2MSAyLjQ4MTk4TDEyLjAwMDQgMy4xODE4OFpNMTQuNjAwNCAxMi4wMDAxQzE0LjYwMDQgMTUuMTYxMSAxMy4zMzczIDE4LjAyNTEgMTEuMjg2MiAyMC4xMTgzTDEyLjcxNDYgMjEuNTE4MUMxNS4xMTczIDE5LjA2NjIgMTYuNjAwNCAxNS43MDUzIDE2LjYwMDQgMTIuMDAwMUgxNC42MDA0Wk0xMS4yODYxIDMuODgxNzhDMTMuMzM3MyA1Ljk3NTAxIDE0LjYwMDQgOC44MzkwMyAxNC42MDA0IDEyLjAwMDFIMTYuNjAwNEMxNi42MDA0IDguMjk0NzggMTUuMTE3MyA0LjkzMzg5IDEyLjcxNDYgMi40ODE5OEwxMS4yODYxIDMuODgxNzhaTTkuNDAwMzkgMTIuMDAwMUM5LjQwMDM5IDguODM5MDMgMTAuNjYzNCA1Ljk3NTAxIDEyLjcxNDYgMy44ODE3OEwxMS4yODYxIDIuNDgxOThDOC44ODM0NyA0LjkzMzg5IDcuNDAwMzkgOC4yOTQ3OCA3LjQwMDM5IDEyLjAwMDFIOS40MDAzOVpNMTIuNzE0NiAyMC4xMTgzQzEwLjY2MzQgMTguMDI1MSA5LjQwMDM5IDE1LjE2MTEgOS40MDAzOSAxMi4wMDAxSDcuNDAwMzlDNy40MDAzOSAxNS43MDUzIDguODgzNDggMTkuMDY2MiAxMS4yODYyIDIxLjUxODFMMTIuNzE0NiAyMC4xMTgzWiIgZmlsbD0iI2ZmZmZmZiIvPiA8L2c+Cg08L3N2Zz4="/></a>
 
-<!--
-**drotth/drotth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats:
+<p>
+<img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drotth&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
